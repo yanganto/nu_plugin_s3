@@ -1,1 +1,5 @@
-# nu_plugin_s3
+Nu Plugin S3
+---
+
+An S3 client for nu shell
+
