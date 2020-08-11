@@ -1,9 +1,9 @@
 Nu Plugin S3
 ---
 
-An S3 client for nu shell, it can load the content from objects and convert into table
+An S3 plugin for nu shell, it can load the content of S3 objects and convert into table
 
 #### Snapshot
-In this example, the the content from httpbin is save as an object in S3
+In following example, the return content from httpbin is saved before as an object in AWS S3.
 ![snapshot](https://raw.githubusercontent.com/yanganto/nu_plugin_s3/master/demo.png)
 
