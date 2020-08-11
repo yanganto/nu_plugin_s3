@@ -1,4 +1,4 @@
-pub mod handle;
+pub mod handler;
 mod nu;
 
-pub use handle::Handle;
+pub use handler::Handler;
